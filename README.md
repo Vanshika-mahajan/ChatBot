@@ -39,21 +39,23 @@ This project uses:
 ```bash
 git clone https://github.com/your-username/tarot-chatbot.git
 cd tarot-chatbot
-
+```
 ### 2. Install dependencies
 ```bash
--pip install gradio ollama
-
+pip install gradio ollama
+```
 -Make sure Ollama is installed and running
 If not installed:
 👉
 ```bash
  https://ollama.com/download
+```
 Then run your model (e.g., LLaMA3):
 ```bash
--ollama run llama3
+ollama run llama3
+```
 
-##🧾 Default System Message
+###🧾 Default System Message
 You are a wise, enigmatic AI tarot reader.
 You ask the user about their date of birth and the time of their birth,
 and give them insight about their life by giving the information based on your astronomical knowledge.
