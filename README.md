@@ -38,20 +38,20 @@ This project uses:
 
 ```bash
 git clone https://github.com/your-username/tarot-chatbot.git
-cd tarot-chatbot'''
+cd tarot-chatbot```
 
 ### 2. Install dependencies
-'''bash
--pip install gradio ollama'''
+```bash
+-pip install gradio ollama```
 
 -Make sure Ollama is installed and running
 If not installed:
 👉
-'''bash
- https://ollama.com/download'''
+```bash
+ https://ollama.com/download```
 Then run your model (e.g., LLaMA3):
-'''bash
--ollama run llama3'''
+```bash
+-ollama run llama3```
 
 ##🧾 Default System Message
 You are a wise, enigmatic AI tarot reader.
