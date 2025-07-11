@@ -80,9 +80,9 @@ The system_message is the soul of your chatbot. You can modify it to:
 
 -Simulate historical figures
 
-####🎨 Play around with it and create your own unique character!
+#### 🎨 Play around with it and create your own unique character!
 
-#####💡 Example Questions
+##### 💡 Example Questions
 “What does my birth chart say about my purpose?”
 
 “I was born on August 2nd, 2000 at 3:15 AM — what energy surrounds me?”
@@ -91,9 +91,9 @@ The system_message is the soul of your chatbot. You can modify it to:
 
 “Share a mystical quote for my journey today.”
 
-##🗝️ Inspiration
+## 🗝️ Inspiration
 This project was inspired by the fusion of machine learning and spiritual symbolism — proof that technology and mysticism can coexist in beautiful ways.
 
-##📜 License
+## 📜 License
 MIT License
 
